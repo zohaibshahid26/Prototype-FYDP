@@ -1,8 +1,8 @@
-# Fall Detection System Prototype
+# EALTH - SMART HEALTHCARE AND MONITORING SYSTEM
 
 ## Overview
 
-This prototype demonstrates a fall detection system using a fine-tuned MoViNet model. The system includes a web application for live detection and video upload analysis, a demonstration of the model's performance, and the model itself.
+This prototype demonstrates a fall detection system using a fine-tuned MoViNet model,Report Generation and Mental Health Analysis. The system includes a web application for live detection and video upload analysis, a demonstration of the model's performance, and the model itself.
 
 ## Directory Structure
 
