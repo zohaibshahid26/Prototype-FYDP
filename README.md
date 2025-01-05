@@ -61,14 +61,13 @@ The `Fine Tuned MoviNet Model For Fall Detection with 95% Accuracy/` directory c
 - TensorFlow
 - OpenCV
 - Jupyter Notebook
-- A web server (e.g., Python's built-in HTTP server)
 
 ### Steps to Start the Prototype
 
 1. **Clone the Repository**
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/zohaibshahid26/Prototype-FYDP
+   cd Prototype-FYDP
    ```
 2. **Open the Web Application Navigate to the Pages for Web Application/ directory and open index.html in a web browser**
    ```sh
