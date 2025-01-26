@@ -6,7 +6,7 @@ This prototype demonstrates a fall detection system using a fine-tuned MoViNet m
 
 ## Directory Structure
 
-- `Pages for Web Application/`: Contains the HTML files for the web application.
+- `Web Application/`: Contains the HTML files for the web application.
   - `index.html`: The starting point of the web application.
   - `FallDetection.html`: Page for fall detection information.
   - `live-detection.html`: Page for live fall detection using the user's camera.
@@ -39,7 +39,7 @@ This web application provides a fall detection system using YOLOv8 for object de
 ## Folder Structure
 
 ```
-your_project/
+Web Application/
 ├── static/
 │   ├── uploads/               # Folder to store uploaded video files
 │   └── processed/             # Folder to store processed video files
@@ -62,13 +62,13 @@ your_project/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/zohaibshahid26/Prototype-FYDP.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd your_project
+   cd Prototype-FYDP/Web Application/
    ```
 
 3. **Create a virtual environment:**
